@@ -1,0 +1,51 @@
+#div1{height: 500px; width: 500px;
+    background-color: #CD5C08;}
+    
+    #nav{font-size: 20px; color: yellow;position: relative; left: 20px; top: 10px;}
+    
+    #div2{height: 430px; width: 500px;background-color: #1E2A5E; position: relative;top: 10px;}
+    
+    #label1{color: yellow;height: 30px;width: 200px;text-align: end; font-size: 20px;
+    position: relative;top: 10px;}
+    #name{position: relative; left: 230px; font-size: 20px; bottom: 20px;}
+    
+    #label2{color: yellow; height: 30px;width: 200px;text-align: end; font-size: 20px;
+        position: relative;bottom:15px;}
+        #name2{position: relative; left: 230px; font-size: 20px; bottom: 45px;}
+        
+    #label3{color: yellow; height: 30px;width: 200px;text-align: end; font-size: 20px;
+        position: relative;bottom:40px;}
+        #dob{position: relative; left: 230px; font-size: 20px; bottom: 70px;}
+    
+    #label4{color: yellow; height: 30px;width: 200px;text-align: end; font-size: 20px;
+        position: relative;bottom:65px;}
+        #male{position: relative; left: 230px; font-size: 20px; bottom: 90px;}
+    
+        #label5{color: yellow; height: 30px;width: 200px;text-align: end; font-size: 20px;
+            position: relative;bottom:85px;}
+    #country {position: relative; left: 230px; font-size: 20px; bottom: 115px;}
+    
+    #label6{color: yellow;height: 30px;width: 200px;text-align: end; font-size: 20px;
+        position: relative;bottom:100px;}
+        #email {position: relative; left: 230px; font-size: 20px; bottom: 130px}
+    
+        #label7{color: yellow; height: 30px;width: 200px;text-align: end; font-size: 20px;
+            position: relative;bottom:110px;}
+            #number{position: relative; left: 230px; font-size: 20px; bottom: 140px}
+        
+    #label8{color: yellow; height: 30px;width: 200px;text-align: end; font-size: 20px;
+        position: relative;bottom:120px;}
+        #pass1{position: relative; left: 230px; font-size: 20px; bottom: 150px}
+    
+        #label9{color: yellow; height: 30px;width: 200px;text-align: end; font-size: 20px;
+            position: relative;bottom:140px;}
+            #pass2{position: relative; left: 230px; font-size: 20px; bottom: 165px}
+    
+    #check{position: relative; left: 230px; font-size: 20px; bottom: 135px}
+    
+    #agree{color: yellow; height: 30px;width: 200px;text-align: left; font-size: 20px;
+        position: relative;bottom:155px; left: 260px;}
+    
+    #submit{position: relative;bottom: 150px; left: 290px; font-size: 20px; color:white;background-color: green;}
+    #cancel{position: relative;bottom: 150px; left: 290px; font-size: 20px; color:white;background-color: orangered;}
+    
